@@ -3,4 +3,4 @@
 *.classpath
 *.iml
 target
-.idea/
+.idea
