@@ -15,7 +15,7 @@
 
 		<!--[INICIO Dependecias pruebas unitarias]  -->
 		<assertj>2.6.0</assertj>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
  		<powermock.version>1.6.2</powermock.version>
  		<mockito.core>2.0.5-beta</mockito.core>
  		<javassist>3.23.1-GA</javassist>
